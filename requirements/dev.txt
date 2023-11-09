@@ -1,3 +1,4 @@
 debugpy
 mypy
 ruff-lsp
+pre-commit
